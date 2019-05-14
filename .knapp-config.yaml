@@ -1,0 +1,3 @@
+project:
+  platform: nodejs-express:latest
+  config: nodejs-express:latest
